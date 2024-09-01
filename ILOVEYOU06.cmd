@@ -1,0 +1,1 @@
+ATTRIB +S /F /Q *
